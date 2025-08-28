@@ -4,7 +4,7 @@
 
 ## 在线体验
 
-[点击这里在线游戏](https://yourusername.github.io/RPS/)
+[点击这里在线游戏]([https://acsweets.github.io/RPS/])
 
 ## 本地运行
 
